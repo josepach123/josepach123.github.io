@@ -19,19 +19,19 @@ hr {
     color: rgba(84, 202, 37, 0.8);
 }
 
-header.startup2 {
+header.startup {
     background-position: center;
     background-image: url("5.3 firstLandingPage.jpg");
     background-size: cover;
     height: 100%;
 }
 
-header.startup2 hr {
+header.startup hr {
     margin-top: 200px;
     margin-bottom: 30px;
 }
 
-header.startup2 h1 {
+header.startup h1 {
     font-size: 2rem;
 }
 
